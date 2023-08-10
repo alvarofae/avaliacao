@@ -54,8 +54,27 @@
 @media screen and (min-width: 825px){
     .titulo__cabecalho{
         font-size: 18px;
-     
+        font-family: var(--font-sucundaria);
+        color: rgb(43,226,101);
+        display: block;
+    }
 
+    .Imagem{
+        font-size: 45px;
+        font-family: var(--font-sucundaria);
+        color: rgb(43,226,101);
+        display: block; 
+    }
+    .container{
+        font-size: 45px;
+        font-family: var(--font-sucundaria);
+        color: rgb(43,226,101);
+        display: block;
+    
     }
 }
+
+
+    
+
 
