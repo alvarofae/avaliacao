@@ -58,11 +58,12 @@
 .logo{
         width: 200px!important;
 }
+
 @media screen and (min-width: 825px){
     .titulo__cabecalho{
         font-size: 38px;
         font-family: var(--font-sucundaria);
-        color: rgb(43, 52, 226);
+        color: green;
         display: block;
     }
 
